@@ -1,2 +1,2 @@
-# Spam-SMS-Detection
+CODSOFT
 CODSOFT  - Spam SMS Detection
